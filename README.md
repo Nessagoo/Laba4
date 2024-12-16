@@ -33,9 +33,4 @@
 - Приложение требует подключения к Интернету для получения данных о погоде.
 - В случае ошибок при запросе или обработке данных будет отображаться сообщение об ошибке.
 
-- ![image](https://github.com/NIKOLAYSSS/assets/blob/main/1.png)
-
-- ## Демонстрация работы
-
-- ![laba_4](https://github.com/user-attachments/assets/81b52c11-9c2d-4dab-95de-991aad6acbcd)
 
